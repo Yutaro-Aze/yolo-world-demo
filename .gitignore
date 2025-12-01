@@ -9,7 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-# Data files
-data/
+# Model files
 yolov8x-worldv2.pt
 output/
